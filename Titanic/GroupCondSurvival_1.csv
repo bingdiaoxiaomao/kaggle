@@ -1,0 +1,169 @@
+Age,Cabin,Embarked,Fare,Name,Parch,PassengerId,Pclass,Sex,SibSp,Survived,Ticket,Surname,Title,GroupId,GroupCond,GroupCondFreq,TicketId,GroupCondSurvival
+35.0,,S,20.25,"Abbott, Mrs. Stanton (Rosa Hunt)",1,280,3,female,1,1.0,C.A. 267X,Abbott,woman,Abbott-S-3-C.A. 267X-20.25,Abbott-S-3-C.A. 267X-20.25,2,S-3-C.A. 267X-20.25,1.0
+13.0,,S,20.25,"Abbott, Master. Eugene Joseph",2,1284,3,male,0,,C.A. 267X,Abbott,boy,Abbott-S-3-C.A. 267X-20.25,Abbott-S-3-C.A. 267X-20.25,2,S-3-C.A. 267X-20.25,1.0
+18.0,,S,9.35,"Aks, Mrs. Sam (Leah Rosen)",1,856,3,female,0,1.0,39209X,Aks,woman,Aks-S-3-39209X-9.35,Aks-S-3-39209X-9.35,2,S-3-39209X-9.35,1.0
+0.83,,S,9.35,"Aks, Master. Philip Frank",1,1199,3,male,0,,39209X,Aks,boy,Aks-S-3-39209X-9.35,Aks-S-3-39209X-9.35,2,S-3-39209X-9.35,1.0
+15.0,B5,S,211.3375,"Madill, Miss. Georgette Alexandra",1,690,1,female,0,1.0,2416X,Madill,woman,Allen-S-1-2416X-211.3375,Allen-S-1-2416X-211.3375,3,S-1-2416X-211.3375,1.0
+43.0,B3,S,211.3375,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",1,780,1,female,0,1.0,2416X,Robert,woman,Allen-S-1-2416X-211.3375,Allen-S-1-2416X-211.3375,3,S-1-2416X-211.3375,1.0
+39.0,,S,211.3375,"Kreuchen, Miss. Emilie",0,1216,1,female,0,,2416X,Kreuchen,woman,Allen-S-1-2416X-211.3375,Allen-S-1-2416X-211.3375,3,S-1-2416X-211.3375,1.0
+21.0,D9,S,77.9583,"Longley, Miss. Gretchen Fiske",0,628,1,female,0,1.0,1350X,Longley,woman,Andrews-S-1-1350X-77.9583,Andrews-S-1-1350X-77.9583,2,S-1-1350X-77.9583,1.0
+51.0,D11,S,77.9583,"Hogeboom, Mrs. John C (Anna Andrews)",0,766,1,female,1,1.0,1350X,Hogeboom,woman,Andrews-S-1-1350X-77.9583,Andrews-S-1-1350X-77.9583,2,S-1-1350X-77.9583,1.0
+42.0,,C,227.525,"Bidois, Miss. Rosalie",0,381,1,female,0,1.0,PC 1775X,Bidois,woman,Astor-C-1-PC 1775X-227.525,Astor-C-1-PC 1775X-227.525,3,C-1-PC 1775X-227.525,1.0
+18.0,C62 C64,C,227.525,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",0,701,1,female,1,1.0,PC 1775X,Astor,woman,Astor-C-1-PC 1775X-227.525,Astor-C-1-PC 1775X-227.525,3,C-1-PC 1775X-227.525,1.0
+38.0,C45,C,227.525,"Endres, Miss. Caroline Louise",0,717,1,female,0,1.0,PC 1775X,Endres,woman,Astor-C-1-PC 1775X-227.525,Astor-C-1-PC 1775X-227.525,3,C-1-PC 1775X-227.525,1.0
+5.0,,C,19.2583,"Baclini, Miss. Marie Catherine",1,449,3,female,2,1.0,266X,Baclini,woman,Baclini-C-3-266X-19.2583,Baclini-C-3-266X-19.2583,4,C-3-266X-19.2583,1.0
+0.75,,C,19.2583,"Baclini, Miss. Helene Barbara",1,470,3,female,2,1.0,266X,Baclini,woman,Baclini-C-3-266X-19.2583,Baclini-C-3-266X-19.2583,4,C-3-266X-19.2583,1.0
+0.75,,C,19.2583,"Baclini, Miss. Eugenie",1,645,3,female,2,1.0,266X,Baclini,woman,Baclini-C-3-266X-19.2583,Baclini-C-3-266X-19.2583,4,C-3-266X-19.2583,1.0
+24.0,,C,19.2583,"Baclini, Mrs. Solomon (Latifa Qurban)",3,859,3,female,0,1.0,266X,Baclini,woman,Baclini-C-3-266X-19.2583,Baclini-C-3-266X-19.2583,4,C-3-266X-19.2583,1.0
+50.0,B58 B60,C,247.5208,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",1,300,1,female,0,1.0,PC 1755X,Baxter,woman,Baxter-C-1-PC 1755X-247.5208,Baxter-C-1-PC 1755X-247.5208,2,C-1-PC 1755X-247.5208,1.0
+27.0,B58 B60,C,247.5208,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",1,1076,1,female,1,,PC 1755X,Douglas,woman,Baxter-C-1-PC 1755X-247.5208,Baxter-C-1-PC 1755X-247.5208,2,C-1-PC 1755X-247.5208,1.0
+1.0,F4,S,39.0,"Becker, Master. Richard F",1,184,2,male,2,1.0,23013X,Becker,boy,Becker-S-2-23013X-39.0,Becker-S-2-23013X-39.0,4,S-2-23013X-39.0,1.0
+4.0,F4,S,39.0,"Becker, Miss. Marion Louise",1,619,2,female,2,1.0,23013X,Becker,woman,Becker-S-2-23013X-39.0,Becker-S-2-23013X-39.0,4,S-2-23013X-39.0,1.0
+36.0,F4,S,39.0,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",3,1070,2,female,0,,23013X,Becker,woman,Becker-S-2-23013X-39.0,Becker-S-2-23013X-39.0,4,S-2-23013X-39.0,1.0
+12.0,F4,S,39.0,"Becker, Miss. Ruth Elizabeth",1,1218,2,female,2,,23013X,Becker,woman,Becker-S-2-23013X-39.0,Becker-S-2-23013X-39.0,4,S-2-23013X-39.0,1.0
+40.0,,S,39.0,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",1,671,2,female,1,1.0,2975X,Brown,woman,Brown-S-2-2975X-39.0,Brown-S-2-2975X-39.0,2,S-2-2975X-39.0,1.0
+15.0,,S,39.0,"Brown, Miss. Edith Eileen",2,1067,2,female,0,,2975X,Brown,woman,Brown-S-2-2975X-39.0,Brown-S-2-2975X-39.0,2,S-2-2975X-39.0,1.0
+0.83,,S,29.0,"Caldwell, Master. Alden Gates",2,79,2,male,0,1.0,24873X,Caldwell,boy,Caldwell-S-2-24873X-29.0,Caldwell-S-2-24873X-29.0,2,S-2-24873X-29.0,1.0
+22.0,,S,29.0,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",1,324,2,female,1,1.0,24873X,Caldwell,woman,Caldwell-S-2-24873X-29.0,Caldwell-S-2-24873X-29.0,2,S-2-24873X-29.0,1.0
+35.0,,C,512.3292,"Ward, Miss. Anna",0,259,1,female,0,1.0,PC 1775X,Ward,woman,Cardeza-C-1-PC 1775X-512.3292,Cardeza-C-1-PC 1775X-512.3292,2,C-1-PC 1775X-512.3292,1.0
+58.0,B51 B53 B55,C,512.3292,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",1,1235,1,female,0,,PC 1775X,Cardeza,woman,Cardeza-C-1-PC 1775X-512.3292,Cardeza-C-1-PC 1775X-512.3292,2,C-1-PC 1775X-512.3292,1.0
+14.0,B96 B98,S,120.0,"Carter, Miss. Lucile Polk",2,436,1,female,1,1.0,11376X,Carter,woman,Carter-S-1-11376X-120.0,Carter-S-1-11376X-120.0,3,S-1-11376X-120.0,1.0
+36.0,B96 B98,S,120.0,"Carter, Mrs. William Ernest (Lucile Polk)",2,764,1,female,1,1.0,11376X,Carter,woman,Carter-S-1-11376X-120.0,Carter-S-1-11376X-120.0,3,S-1-11376X-120.0,1.0
+11.0,B96 B98,S,120.0,"Carter, Master. William Thornton II",2,803,1,male,1,1.0,11376X,Carter,boy,Carter-S-1-11376X-120.0,Carter-S-1-11376X-120.0,3,S-1-11376X-120.0,1.0
+16.0,B79,S,86.5,"Maioni, Miss. Roberta",0,505,1,female,0,1.0,11015X,Maioni,woman,Cherry-S-1-11015X-86.5,Cherry-S-1-11015X-86.5,2,S-1-11015X-86.5,1.0
+33.0,B77,S,86.5,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",0,760,1,female,0,1.0,11015X,Rothes,woman,Cherry-S-1-11015X-86.5,Cherry-S-1-11015X-86.5,2,S-1-11015X-86.5,1.0
+25.0,,S,30.0,"Christy, Miss. Julie Rachel",1,581,2,female,1,1.0,23778X,Christy,woman,Christy-S-2-23778X-30.0,Christy-S-2-23778X-30.0,2,S-2-23778X-30.0,1.0
+45.0,,S,30.0,"Christy, Mrs. (Alice Frances)",2,1133,2,female,0,,23778X,Christy,woman,Christy-S-2-23778X-30.0,Christy-S-2-23778X-30.0,2,S-2-23778X-30.0,1.0
+8.0,,S,26.25,"Collyer, Miss. Marjorie ""Lottie""",2,238,2,female,0,1.0,C.A. 3192X,Collyer,woman,Collyer-S-2-C.A. 3192X-26.25,Collyer-S-2-C.A. 3192X-26.25,2,S-2-C.A. 3192X-26.25,1.0
+31.0,,S,26.25,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",1,802,2,female,1,1.0,C.A. 3192X,Collyer,woman,Collyer-S-2-C.A. 3192X-26.25,Collyer-S-2-C.A. 3192X-26.25,2,S-2-C.A. 3192X-26.25,1.0
+39.0,E49,C,83.1583,"Compton, Miss. Sara Rebecca",1,836,1,female,1,1.0,PC 1775X,Compton,woman,Compton-C-1-PC 1775X-83.1583,Compton-C-1-PC 1775X-83.1583,2,C-1-PC 1775X-83.1583,1.0
+64.0,E45,C,83.1583,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",2,1071,1,female,0,,PC 1775X,Compton,woman,Compton-C-1-PC 1775X-83.1583,Compton-C-1-PC 1775X-83.1583,2,C-1-PC 1775X-83.1583,1.0
+22.0,,Q,7.75,"Madigan, Miss. Margaret ""Maggie""",0,199,3,female,0,1.0,37037X,Madigan,woman,Connolly-Q-3-37037X-7.75,Connolly-Q-3-37037X-7.75,2,Q-3-37037X-7.75,1.0
+22.0,,Q,7.75,"Healy, Miss. Hanora ""Nora""",0,275,3,female,0,1.0,37037X,Healy,woman,Connolly-Q-3-37037X-7.75,Connolly-Q-3-37037X-7.75,2,Q-3-37037X-7.75,1.0
+3.0,,S,15.9,"Coutts, Master. William Loch ""William""",1,349,3,male,1,1.0,C.A. 3767X,Coutts,boy,Coutts-S-3-C.A. 3767X-15.9,Coutts-S-3-C.A. 3767X-15.9,3,S-3-C.A. 3767X-15.9,1.0
+9.0,,S,15.9,"Coutts, Master. Eden Leslie ""Neville""",1,490,3,male,1,1.0,C.A. 3767X,Coutts,boy,Coutts-S-3-C.A. 3767X-15.9,Coutts-S-3-C.A. 3767X-15.9,3,S-3-C.A. 3767X-15.9,1.0
+36.0,,S,15.9,"Coutts, Mrs. William (Winnie Minnie"" Treanor)""",2,941,3,female,0,,C.A. 3767X,Coutts,woman,Coutts-S-3-C.A. 3767X-15.9,Coutts-S-3-C.A. 3767X-15.9,3,S-3-C.A. 3767X-15.9,1.0
+8.0,,S,36.75,"Davies, Master. John Morgan Jr",1,550,2,male,1,1.0,C.A. 3311X,Davies,boy,Davies-S-2-C.A. 3311X-36.75,Davies-S-2-C.A. 3311X-36.75,3,S-2-C.A. 3311X-36.75,1.0
+20.0,,S,36.75,"Sincock, Miss. Maude",0,1068,2,female,0,,C.A. 3311X,Sincock,woman,Davies-S-2-C.A. 3311X-36.75,Davies-S-2-C.A. 3311X-36.75,3,S-2-C.A. 3311X-36.75,1.0
+48.0,,S,36.75,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",2,1222,2,female,0,,C.A. 3311X,Davies,woman,Davies-S-2-C.A. 3311X-36.75,Davies-S-2-C.A. 3311X-36.75,3,S-2-C.A. 3311X-36.75,1.0
+1.0,,S,20.575,"Dean, Master. Bertram Vere",2,789,3,male,1,1.0,C.A. 231X,Dean,boy,Dean-S-3-C.A. 231X-20.575,Dean-S-3-C.A. 231X-20.575,3,S-3-C.A. 231X-20.575,1.0
+33.0,,S,20.575,"Dean, Mrs. Bertram (Eva Georgetta Light)",2,924,3,female,1,,C.A. 231X,Dean,woman,Dean-S-3-C.A. 231X-20.575,Dean-S-3-C.A. 231X-20.575,3,S-3-C.A. 231X-20.575,1.0
+0.17,,S,20.575,"Dean, Miss. Elizabeth Gladys Millvina""""",2,1246,3,female,1,,C.A. 231X,Dean,woman,Dean-S-3-C.A. 231X-20.575,Dean-S-3-C.A. 231X-20.575,3,S-3-C.A. 231X-20.575,1.0
+4.0,A34,S,81.8583,"Dodge, Master. Washington",2,446,1,male,0,1.0,3363X,Dodge,boy,Dodge-S-1-3363X-81.8583,Dodge-S-1-3363X-81.8583,2,S-1-3363X-81.8583,1.0
+54.0,A34,S,81.8583,"Dodge, Mrs. Washington (Ruth Vidaver)",1,1266,1,female,1,,3363X,Dodge,woman,Dodge-S-1-3363X-81.8583,Dodge-S-1-3363X-81.8583,2,S-1-3363X-81.8583,1.0
+34.0,,S,23.0,"Doling, Mrs. John T (Ada Julia Bone)",1,99,2,female,0,1.0,23191X,Doling,woman,Doling-S-2-23191X-23.0,Doling-S-2-23191X-23.0,2,S-2-23191X-23.0,1.0
+18.0,,S,23.0,"Doling, Miss. Elsie",1,652,2,female,0,1.0,23191X,Doling,woman,Doling-S-2-23191X-23.0,Doling-S-2-23191X-23.0,2,S-2-23191X-23.0,1.0
+30.0,,C,106.425,"LeRoy, Miss. Bertha",0,538,1,female,0,1.0,PC 1776X,LeRoy,woman,Douglas-C-1-PC 1776X-106.425,Douglas-C-1-PC 1776X-106.425,2,C-1-PC 1776X-106.425,1.0
+48.0,C86,C,106.425,"Douglas, Mrs. Walter Donald (Mahala Dutton)",0,1131,1,female,1,,PC 1776X,Douglas,woman,Douglas-C-1-PC 1776X-106.425,Douglas-C-1-PC 1776X-106.425,2,C-1-PC 1776X-106.425,1.0
+34.0,,S,32.5,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",1,417,2,female,1,1.0,2822X,Drew,woman,Drew-S-2-2822X-32.5,Drew-S-2-2822X-32.5,2,S-2-2822X-32.5,1.0
+8.0,,S,32.5,"Drew, Master. Marshall Brines",2,1086,2,male,0,,2822X,Drew,boy,Drew-S-2-2822X-32.5,Drew-S-2-2822X-32.5,2,S-2-2822X-32.5,1.0
+27.0,,C,13.8583,"Duran y More, Miss. Asuncion",0,867,2,female,1,1.0,SC/PARIS 214X,Duran y More,woman,Duran y More-C-2-SC/PARIS 214X-13.8583,Duran y More-C-2-SC/PARIS 214X-13.8583,2,C-2-SC/PARIS 214X-13.8583,1.0
+30.0,,C,13.8583,"Duran y More, Miss. Florentina",0,1112,2,female,1,,SC/PARIS 214X,Duran y More,woman,Duran y More-C-2-SC/PARIS 214X-13.8583,Duran y More-C-2-SC/PARIS 214X-13.8583,2,C-2-SC/PARIS 214X-13.8583,1.0
+24.0,C54,C,83.1583,"Hays, Miss. Margaret Bechstein",0,311,1,female,0,1.0,1176X,Hays,woman,Earnshaw-C-1-1176X-83.1583,Earnshaw-C-1-1176X-83.1583,2,C-1-1176X-83.1583,1.0
+56.0,C50,C,83.1583,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",1,880,1,female,0,1.0,1176X,Potter,woman,Earnshaw-C-1-1176X-83.1583,Earnshaw-C-1-1176X-83.1583,2,C-1-1176X-83.1583,1.0
+23.0,C23 C25 C27,S,263.0,"Fortune, Miss. Mabel Helen",2,89,1,female,3,1.0,1995X,Fortune,woman,Fortune-S-1-1995X-263.0,Fortune-S-1-1995X-263.0,4,S-1-1995X-263.0,1.0
+24.0,C23 C25 C27,S,263.0,"Fortune, Miss. Alice Elizabeth",2,342,1,female,3,1.0,1995X,Fortune,woman,Fortune-S-1-1995X-263.0,Fortune-S-1-1995X-263.0,4,S-1-1995X-263.0,1.0
+28.0,C23 C25 C27,S,263.0,"Fortune, Miss. Ethel Flora",2,945,1,female,3,,1995X,Fortune,woman,Fortune-S-1-1995X-263.0,Fortune-S-1-1995X-263.0,4,S-1-1995X-263.0,1.0
+60.0,C23 C25 C27,S,263.0,"Fortune, Mrs. Mark (Mary McDougald)",4,961,1,female,1,,1995X,Fortune,woman,Fortune-S-1-1995X-263.0,Fortune-S-1-1995X-263.0,4,S-1-1995X-263.0,1.0
+9.0,,S,20.525,"Goldsmith, Master. Frank John William ""Frankie""",2,166,3,male,0,1.0,36329X,Goldsmith,boy,Goldsmith-S-3-36329X-20.525,Goldsmith-S-3-36329X-20.525,2,S-3-36329X-20.525,1.0
+31.0,,S,20.525,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",1,329,3,female,1,1.0,36329X,Goldsmith,woman,Goldsmith-S-3-36329X-20.525,Goldsmith-S-3-36329X-20.525,2,S-3-36329X-20.525,1.0
+58.0,C125,S,153.4625,"Graham, Mrs. William Thompson (Edith Junkins)",1,269,1,female,0,1.0,PC 1758X,Graham,woman,Graham-S-1-PC 1758X-153.4625,Graham-S-1-PC 1758X-153.4625,2,S-1-PC 1758X-153.4625,1.0
+40.0,C125,S,153.4625,"Shutes, Miss. Elizabeth W",0,610,1,female,0,1.0,PC 1758X,Shutes,woman,Graham-S-1-PC 1758X-153.4625,Graham-S-1-PC 1758X-153.4625,2,S-1-PC 1758X-153.4625,1.0
+18.0,,S,13.0,"Silven, Miss. Lyyli Karoliina",2,418,2,female,0,1.0,25065X,Silven,woman,Hale-S-2-25065X-13.0,Hale-S-2-25065X-13.0,2,S-2-25065X-13.0,1.0
+18.0,,S,13.0,"Hiltunen, Miss. Marta",1,1130,2,female,1,,25065X,Hiltunen,woman,Hale-S-2-25065X-13.0,Hale-S-2-25065X-13.0,2,S-2-25065X-13.0,1.0
+24.0,,S,14.5,"Hamalainen, Mrs. William (Anna)",2,248,2,female,0,1.0,25064X,Hamalainen,woman,Hamalainen-S-2-25064X-14.5,Hamalainen-S-2-25064X-14.5,2,S-2-25064X-14.5,1.0
+0.67,,S,14.5,"Hamalainen, Master. Viljo",1,756,2,male,1,1.0,25064X,Hamalainen,boy,Hamalainen-S-2-25064X-14.5,Hamalainen-S-2-25064X-14.5,2,S-2-25064X-14.5,1.0
+22.0,,S,33.0,"Leitch, Miss. Jessie Wills",0,597,2,female,0,1.0,24872X,Leitch,woman,Harper-S-2-24872X-33.0,Harper-S-2-24872X-33.0,2,S-2-24872X-33.0,1.0
+6.0,,S,33.0,"Harper, Miss. Annie Jessie ""Nina""",1,721,2,female,0,1.0,24872X,Harper,woman,Harper-S-2-24872X-33.0,Harper-S-2-24872X-33.0,2,S-2-24872X-33.0,1.0
+45.0,,S,26.25,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",1,441,2,female,1,1.0,F.C.C. 1352X,Hart,woman,Hart-S-2-F.C.C. 1352X-26.25,Hart-S-2-F.C.C. 1352X-26.25,2,S-2-F.C.C. 1352X-26.25,1.0
+7.0,,S,26.25,"Hart, Miss. Eva Miriam",2,536,2,female,0,1.0,F.C.C. 1352X,Hart,woman,Hart-S-2-F.C.C. 1352X-26.25,Hart-S-2-F.C.C. 1352X-26.25,2,S-2-F.C.C. 1352X-26.25,1.0
+30.0,B73,S,93.5,"Perreault, Miss. Anne",0,521,1,female,0,1.0,1274X,Perreault,woman,Hays-S-1-1274X-93.5,Hays-S-1-1274X-93.5,2,S-1-1274X-93.5,1.0
+52.0,B69,S,93.5,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",1,821,1,female,1,1.0,1274X,Hays,woman,Hays-S-1-1274X-93.5,Hays-S-1-1274X-93.5,2,S-1-1274X-93.5,1.0
+24.0,,S,65.0,"Herman, Miss. Alice",2,616,2,female,1,1.0,22084X,Herman,woman,Herman-S-2-22084X-65.0,Herman-S-2-22084X-65.0,3,S-2-22084X-65.0,1.0
+48.0,,S,65.0,"Herman, Mrs. Samuel (Jane Laver)",2,755,2,female,1,1.0,22084X,Herman,woman,Herman-S-2-22084X-65.0,Herman-S-2-22084X-65.0,3,S-2-22084X-65.0,1.0
+24.0,,S,65.0,"Herman, Miss. Kate",2,1277,2,female,1,,22084X,Herman,woman,Herman-S-2-22084X-65.0,Herman-S-2-22084X-65.0,3,S-2-22084X-65.0,1.0
+16.0,B18,C,57.9792,"Hippach, Miss. Jean Gertrude",1,330,1,female,0,1.0,11136X,Hippach,woman,Hippach-C-1-11136X-57.9792,Hippach-C-1-11136X-57.9792,2,C-1-11136X-57.9792,1.0
+44.0,B18,C,57.9792,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",1,524,1,female,0,1.0,11136X,Hippach,woman,Hippach-C-1-11136X-57.9792,Hippach-C-1-11136X-57.9792,2,C-1-11136X-57.9792,1.0
+2.0,,S,12.2875,"Hirvonen, Miss. Hildur E",1,480,3,female,0,1.0,310129X,Hirvonen,woman,Hirvonen-S-3-310129X-12.2875,Hirvonen-S-3-310129X-12.2875,2,S-3-310129X-12.2875,1.0
+22.0,,S,12.2875,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",1,896,3,female,1,,310129X,Hirvonen,woman,Hirvonen-S-3-310129X-12.2875,Hirvonen-S-3-310129X-12.2875,2,S-3-310129X-12.2875,1.0
+54.0,,S,23.0,"Hocking, Mrs. Elizabeth (Eliza Needs)",3,775,2,female,1,1.0,2910X,Hocking,woman,Hocking-S-2-2910X-23.0,Hocking-S-2-2910X-23.0,2,S-2-2910X-23.0,1.0
+20.0,,S,23.0,"Hocking, Miss. Ellen Nellie""""",1,944,2,female,2,,2910X,Hocking,woman,Hocking-S-2-2910X-23.0,Hocking-S-2-2910X-23.0,2,S-2-2910X-23.0,1.0
+22.0,,Q,7.75,"O'Driscoll, Miss. Bridget",0,48,3,female,0,1.0,1431X,O'Driscoll,woman,Jermyn-Q-3-1431X-7.75,Jermyn-Q-3-1431X-7.75,2,Q-3-1431X-7.75,1.0
+22.0,,Q,7.75,"Kelly, Miss. Mary",0,574,3,female,0,1.0,1431X,Kelly,woman,Jermyn-Q-3-1431X-7.75,Jermyn-Q-3-1431X-7.75,2,Q-3-1431X-7.75,1.0
+27.0,,S,11.1333,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",2,9,3,female,0,1.0,34774X,Johnson,woman,Johnson-S-3-34774X-11.1333,Johnson-S-3-34774X-11.1333,3,S-3-34774X-11.1333,1.0
+1.0,,S,11.1333,"Johnson, Miss. Eleanor Ileen",1,173,3,female,1,1.0,34774X,Johnson,woman,Johnson-S-3-34774X-11.1333,Johnson-S-3-34774X-11.1333,3,S-3-34774X-11.1333,1.0
+4.0,,S,11.1333,"Johnson, Master. Harold Theodor",1,870,3,male,1,1.0,34774X,Johnson,boy,Johnson-S-3-34774X-11.1333,Johnson-S-3-34774X-11.1333,3,S-3-34774X-11.1333,1.0
+4.0,,S,22.025,"Kink-Heilmann, Miss. Luise Gretchen",2,185,3,female,0,1.0,31515X,Kink-Heilmann,woman,Kink-Heilmann-S-3-31515X-22.025,Kink-Heilmann-S-3-31515X-22.025,2,S-3-31515X-22.025,1.0
+26.0,,S,22.025,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",1,1057,3,female,1,,31515X,Kink-Heilmann,woman,Kink-Heilmann-S-3-31515X-22.025,Kink-Heilmann-S-3-31515X-22.025,2,S-3-31515X-22.025,1.0
+3.0,,C,41.5792,"Laroche, Miss. Simonne Marie Anne Andree",2,44,2,female,1,1.0,SC/Paris 212X,Laroche,woman,Laroche-C-2-SC/Paris 212X-41.5792,Laroche-C-2-SC/Paris 212X-41.5792,3,C-2-SC/Paris 212X-41.5792,1.0
+22.0,,C,41.5792,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",2,609,2,female,1,1.0,SC/Paris 212X,Laroche,woman,Laroche-C-2-SC/Paris 212X-41.5792,Laroche-C-2-SC/Paris 212X-41.5792,3,C-2-SC/Paris 212X-41.5792,1.0
+1.0,,C,41.5792,"Laroche, Miss. Louise",2,1188,2,female,1,,SC/Paris 212X,Laroche,woman,Laroche-C-2-SC/Paris 212X-41.5792,Laroche-C-2-SC/Paris 212X-41.5792,3,C-2-SC/Paris 212X-41.5792,1.0
+16.0,D28,S,39.4,"Lines, Miss. Mary Conover",1,854,1,female,0,1.0,PC 1759X,Lines,woman,Lines-S-1-PC 1759X-39.4,Lines-S-1-PC 1759X-39.4,2,S-1-PC 1759X-39.4,1.0
+51.0,D28,S,39.4,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",1,1283,1,female,0,,PC 1759X,Lines,woman,Lines-S-1-PC 1759X-39.4,Lines-S-1-PC 1759X-39.4,2,S-1-PC 1759X-39.4,1.0
+1.0,,C,37.0042,"Mallet, Master. Andre",2,828,2,male,0,1.0,S.C./PARIS 207X,Mallet,boy,Mallet-C-2-S.C./PARIS 207X-37.0042,Mallet-C-2-S.C./PARIS 207X-37.0042,2,C-2-S.C./PARIS 207X-37.0042,1.0
+24.0,,C,37.0042,"Mallet, Mrs. Albert (Antoinette Magnin)",1,1253,2,female,1,,S.C./PARIS 207X,Mallet,woman,Mallet-C-2-S.C./PARIS 207X-37.0042,Mallet-C-2-S.C./PARIS 207X-37.0042,2,C-2-S.C./PARIS 207X-37.0042,1.0
+22.0,,Q,23.25,"McCoy, Miss. Agnes",0,331,3,female,2,1.0,36722X,McCoy,woman,McCoy-Q-3-36722X-23.25,McCoy-Q-3-36722X-23.25,2,Q-3-36722X-23.25,1.0
+22.0,,Q,23.25,"McCoy, Miss. Alicia",0,1019,3,female,2,,36722X,McCoy,woman,McCoy-Q-3-36722X-23.25,McCoy-Q-3-36722X-23.25,2,Q-3-36722X-23.25,1.0
+41.0,,S,19.5,"Mellinger, Mrs. (Elizabeth Anne Maidment)",1,273,2,female,0,1.0,25064X,Mellinger,woman,Mellinger-S-2-25064X-19.5,Mellinger-S-2-25064X-19.5,2,S-2-25064X-19.5,1.0
+13.0,,S,19.5,"Mellinger, Miss. Madeleine Violet",1,447,2,female,0,1.0,25064X,Mellinger,woman,Mellinger-S-2-25064X-19.5,Mellinger-S-2-25064X-19.5,2,S-2-25064X-19.5,1.0
+33.0,C78,Q,90.0,"Minahan, Miss. Daisy E",0,413,1,female,1,1.0,1992X,Minahan,woman,Minahan-Q-1-1992X-90.0,Minahan-Q-1-1992X-90.0,2,Q-1-1992X-90.0,1.0
+37.0,C78,Q,90.0,"Minahan, Mrs. William Edward (Lillian E Thorpe)",0,1303,1,female,1,,1992X,Minahan,woman,Minahan-Q-1-1992X-90.0,Minahan-Q-1-1992X-90.0,2,Q-1-1992X-90.0,1.0
+6.0,E121,S,12.475,"Moor, Master. Meier",1,752,3,male,0,1.0,39209X,Moor,boy,Moor-S-3-39209X-12.475,Moor-S-3-39209X-12.475,2,S-3-39209X-12.475,1.0
+27.0,E121,S,12.475,"Moor, Mrs. (Beila)",1,824,3,female,0,1.0,39209X,Moor,woman,Moor-S-3-39209X-12.475,Moor-S-3-39209X-12.475,2,S-3-39209X-12.475,1.0
+4.0,,C,15.2458,"Moubarek, Master. Gerios",1,66,3,male,1,1.0,266X,Moubarek,boy,Moubarek-C-3-266X-15.2458,Moubarek-C-3-266X-15.2458,3,C-3-266X-15.2458,1.0
+4.0,,C,15.2458,"Moubarek, Master. Halim Gonios (""William George"")",1,710,3,male,1,1.0,266X,Moubarek,boy,Moubarek-C-3-266X-15.2458,Moubarek-C-3-266X-15.2458,3,C-3-266X-15.2458,1.0
+35.5,,C,15.2458,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",2,1117,3,female,0,,266X,Moubarek,woman,Moubarek-C-3-266X-15.2458,Moubarek-C-3-266X-15.2458,3,C-3-266X-15.2458,1.0
+22.0,,Q,15.5,"Murphy, Miss. Katherine ""Kate""",0,242,3,female,1,1.0,36723X,Murphy,woman,Murphy-Q-3-36723X-15.5,Murphy-Q-3-36723X-15.5,2,Q-3-36723X-15.5,1.0
+22.0,,Q,15.5,"Murphy, Miss. Margaret Jane",0,613,3,female,1,1.0,36723X,Murphy,woman,Murphy-Q-3-36723X-15.5,Murphy-Q-3-36723X-15.5,2,Q-3-36723X-15.5,1.0
+1.0,,C,15.7417,"Nakid, Miss. Maria (""Mary"")",2,382,3,female,0,1.0,265X,Nakid,woman,Nakid-C-3-265X-15.7417,Nakid-C-3-265X-15.7417,2,C-3-265X-15.7417,1.0
+19.0,,C,15.7417,"Nakid, Mrs. Said (Waika Mary"" Mowad)""",1,1225,3,female,1,,265X,Nakid,woman,Nakid-C-3-265X-15.7417,Nakid-C-3-265X-15.7417,2,C-3-265X-15.7417,1.0
+3.0,F2,S,26.0,"Navratil, Master. Michel M",1,194,2,male,1,1.0,23008X,Navratil,boy,Navratil-S-2-23008X-26.0,Navratil-S-2-23008X-26.0,2,S-2-23008X-26.0,1.0
+2.0,F2,S,26.0,"Navratil, Master. Edmond Roger",1,341,2,male,1,1.0,23008X,Navratil,boy,Navratil-S-2-23008X-26.0,Navratil-S-2-23008X-26.0,2,S-2-23008X-26.0,1.0
+31.0,D36,C,113.275,"Newell, Miss. Madeleine",0,216,1,female,1,1.0,3527X,Newell,woman,Newell-C-1-3527X-113.275,Newell-C-1-3527X-113.275,2,C-1-3527X-113.275,1.0
+23.0,D36,C,113.275,"Newell, Miss. Marjorie",0,394,1,female,1,1.0,3527X,Newell,woman,Newell-C-1-3527X-113.275,Newell-C-1-3527X-113.275,2,C-1-3527X-113.275,1.0
+14.0,,C,11.2417,"Nicola-Yarred, Miss. Jamila",0,40,3,female,1,1.0,265X,Nicola-Yarred,woman,Nicola-Yarred-C-3-265X-11.2417,Nicola-Yarred-C-3-265X-11.2417,2,C-3-265X-11.2417,1.0
+12.0,,C,11.2417,"Nicola-Yarred, Master. Elias",0,126,3,male,1,1.0,265X,Nicola-Yarred,boy,Nicola-Yarred-C-3-265X-11.2417,Nicola-Yarred-C-3-265X-11.2417,2,C-3-265X-11.2417,1.0
+22.0,F E69,C,22.3583,"Peter, Miss. Anna",1,129,3,female,1,1.0,266X,Peter,woman,Peter-C-3-266X-22.3583,Peter-C-3-266X-22.3583,3,C-3-266X-22.3583,1.0
+35.5,,C,22.3583,"Peter, Mrs. Catherine (Catherine Rizk)",2,534,3,female,0,1.0,266X,Peter,woman,Peter-C-3-266X-22.3583,Peter-C-3-266X-22.3583,3,C-3-266X-22.3583,1.0
+4.0,,C,22.3583,"Peter, Master. Michael J",1,1309,3,male,1,,266X,Peter,boy,Peter-C-3-266X-22.3583,Peter-C-3-266X-22.3583,3,C-3-266X-22.3583,1.0
+33.0,,S,26.0,"Quick, Mrs. Frederick Charles (Jane Richards)",2,507,2,female,0,1.0,2636X,Quick,woman,Quick-S-2-2636X-26.0,Quick-S-2-2636X-26.0,3,S-2-2636X-26.0,1.0
+2.0,,S,26.0,"Quick, Miss. Phyllis May",1,531,2,female,1,1.0,2636X,Quick,woman,Quick-S-2-2636X-26.0,Quick-S-2-2636X-26.0,3,S-2-2636X-26.0,1.0
+8.0,,S,26.0,"Quick, Miss. Winifred Vera",1,1095,2,female,1,,2636X,Quick,woman,Quick-S-2-2636X-26.0,Quick-S-2-2636X-26.0,3,S-2-2636X-26.0,1.0
+3.0,,S,18.75,"Richards, Master. William Rowe",1,408,2,male,1,1.0,2910X,Richards,boy,Richards-S-2-2910X-18.75,Richards-S-2-2910X-18.75,3,S-2-2910X-18.75,1.0
+24.0,,S,18.75,"Richards, Mrs. Sidney (Emily Hocking)",3,438,2,female,2,1.0,2910X,Richards,woman,Richards-S-2-2910X-18.75,Richards-S-2-2910X-18.75,3,S-2-2910X-18.75,1.0
+0.83,,S,18.75,"Richards, Master. George Sibley",1,832,2,male,1,1.0,2910X,Richards,boy,Richards-S-2-2910X-18.75,Richards-S-2-2910X-18.75,3,S-2-2910X-18.75,1.0
+36.0,C32,C,135.6333,"Young, Miss. Marie Grice",0,326,1,female,0,1.0,PC 1776X,Young,woman,Ringhini-C-1-PC 1776X-135.6333,Ringhini-C-1-PC 1776X-135.6333,2,C-1-PC 1776X-135.6333,1.0
+55.0,C32,C,135.6333,"White, Mrs. John Stuart (Ella Holmes)",0,1206,1,female,0,,PC 1776X,White,woman,Ringhini-C-1-PC 1776X-135.6333,Ringhini-C-1-PC 1776X-135.6333,2,C-1-PC 1776X-135.6333,1.0
+18.0,B57 B59 B63 B66,C,262.375,"Ryerson, Miss. Emily Borie",2,312,1,female,2,1.0,PC 1760X,Ryerson,woman,Ryerson-C-1-PC 1760X-262.375,Ryerson-C-1-PC 1760X-262.375,6,C-1-PC 1760X-262.375,1.0
+21.0,B57 B59 B63 B66,C,262.375,"Ryerson, Miss. Susan Parker ""Suzette""",2,743,1,female,2,1.0,PC 1760X,Ryerson,woman,Ryerson-C-1-PC 1760X-262.375,Ryerson-C-1-PC 1760X-262.375,6,C-1-PC 1760X-262.375,1.0
+48.0,B57 B59 B63 B66,C,262.375,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",3,916,1,female,1,,PC 1760X,Ryerson,woman,Ryerson-C-1-PC 1760X-262.375,Ryerson-C-1-PC 1760X-262.375,6,C-1-PC 1760X-262.375,1.0
+36.0,B61,C,262.375,"Chaudanson, Miss. Victorine",0,951,1,female,0,,PC 1760X,Chaudanson,woman,Ryerson-C-1-PC 1760X-262.375,Ryerson-C-1-PC 1760X-262.375,6,C-1-PC 1760X-262.375,1.0
+13.0,B57 B59 B63 B66,C,262.375,"Ryerson, Master. John Borie",2,956,1,male,2,,PC 1760X,Ryerson,boy,Ryerson-C-1-PC 1760X-262.375,Ryerson-C-1-PC 1760X-262.375,6,C-1-PC 1760X-262.375,1.0
+45.0,,C,262.375,"Bowen, Miss. Grace Scott",0,1267,1,female,0,,PC 1760X,Bowen,woman,Ryerson-C-1-PC 1760X-262.375,Ryerson-C-1-PC 1760X-262.375,6,C-1-PC 1760X-262.375,1.0
+4.0,G6,S,16.7,"Sandstrom, Miss. Marguerite Rut",1,11,3,female,1,1.0,PP 954X,Sandstrom,woman,Sandstrom-S-3-PP 954X-16.7,Sandstrom-S-3-PP 954X-16.7,3,S-3-PP 954X-16.7,1.0
+24.0,G6,S,16.7,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",2,395,3,female,0,1.0,PP 954X,Sandstrom,woman,Sandstrom-S-3-PP 954X-16.7,Sandstrom-S-3-PP 954X-16.7,3,S-3-PP 954X-16.7,1.0
+1.0,G6,S,16.7,"Sandstrom, Miss. Beatrice Irene",1,1009,3,female,1,,PP 954X,Sandstrom,woman,Sandstrom-S-3-PP 954X-16.7,Sandstrom-S-3-PP 954X-16.7,3,S-3-PP 954X-16.7,1.0
+40.0,E34,C,134.5,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",1,320,1,female,1,1.0,1696X,Spedden,woman,Spedden-C-1-1696X-134.5,Spedden-C-1-1696X-134.5,4,C-1-1696X-134.5,1.0
+41.0,E40,C,134.5,"Burns, Miss. Elizabeth Margaret",0,338,1,female,0,1.0,1696X,Burns,woman,Spedden-C-1-1696X-134.5,Spedden-C-1-1696X-134.5,4,C-1-1696X-134.5,1.0
+6.0,E34,C,134.5,"Spedden, Master. Robert Douglas",2,1088,1,male,0,,1696X,Spedden,boy,Spedden-C-1-1696X-134.5,Spedden-C-1-1696X-134.5,4,C-1-1696X-134.5,1.0
+31.0,E39 E41,C,134.5,"Wilson, Miss. Helen Alice",0,1263,1,female,0,,1696X,Wilson,woman,Spedden-C-1-1696X-134.5,Spedden-C-1-1696X-134.5,4,C-1-1696X-134.5,1.0
+39.0,E67,S,79.65,"Taussig, Mrs. Emil (Tillie Mandelbaum)",1,559,1,female,1,1.0,11041X,Taussig,woman,Taussig-S-1-11041X-79.65,Taussig-S-1-11041X-79.65,2,S-1-11041X-79.65,1.0
+18.0,E68,S,79.65,"Taussig, Miss. Ruth",2,586,1,female,0,1.0,11041X,Taussig,woman,Taussig-S-1-11041X-79.65,Taussig-S-1-11041X-79.65,2,S-1-11041X-79.65,1.0
+22.0,,C,110.8833,"Fleming, Miss. Margaret",0,307,1,female,0,1.0,1742X,Fleming,woman,Thayer-C-1-1742X-110.8833,Thayer-C-1-1742X-110.8833,2,C-1-1742X-110.8833,1.0
+39.0,C68,C,110.8833,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",1,582,1,female,1,1.0,1742X,Thayer,woman,Thayer-C-1-1742X-110.8833,Thayer-C-1-1742X-110.8833,2,C-1-1742X-110.8833,1.0
+0.42,,C,8.5167,"Thomas, Master. Assad Alexander",1,804,3,male,0,1.0,262X,Thomas,boy,Thomas-C-3-262X-8.5167,Thomas-C-3-262X-8.5167,2,C-3-262X-8.5167,1.0
+16.0,,C,8.5167,"Thomas, Mrs. Alexander (Thamine Thelma"")""",1,996,3,female,1,,262X,Thomas,woman,Thomas-C-3-262X-8.5167,Thomas-C-3-262X-8.5167,2,C-3-262X-8.5167,1.0
+29.0,,C,15.2458,"Touma, Mrs. Darwis (Hanne Youssef Razi)",2,256,3,female,0,1.0,265X,Touma,woman,Touma-C-3-265X-15.2458,Touma-C-3-265X-15.2458,3,C-3-265X-15.2458,1.0
+7.0,,C,15.2458,"Touma, Master. Georges Youssef",1,1053,3,male,1,,265X,Touma,boy,Touma-C-3-265X-15.2458,Touma-C-3-265X-15.2458,3,C-3-265X-15.2458,1.0
+9.0,,C,15.2458,"Touma, Miss. Maria Youssef",1,1175,3,female,1,,265X,Touma,woman,Touma-C-3-265X-15.2458,Touma-C-3-265X-15.2458,3,C-3-265X-15.2458,1.0
+40.0,,S,15.75,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",0,162,2,female,0,1.0,C.A. 3359X,Watt,woman,Watt-S-2-C.A. 3359X-15.75,Watt-S-2-C.A. 3359X-15.75,2,S-2-C.A. 3359X-15.75,1.0
+12.0,,S,15.75,"Watt, Miss. Bertha J",0,1012,2,female,0,,C.A. 3359X,Watt,woman,Watt-S-2-C.A. 3359X-15.75,Watt-S-2-C.A. 3359X-15.75,2,S-2-C.A. 3359X-15.75,1.0
+4.0,,S,23.0,"Wells, Miss. Joan",1,751,2,female,1,1.0,2910X,Wells,woman,Wells-S-2-2910X-23.0,Wells-S-2-2910X-23.0,3,S-2-2910X-23.0,1.0
+2.0,,S,23.0,"Wells, Master. Ralph Lester",1,981,2,male,1,,2910X,Wells,boy,Wells-S-2-2910X-23.0,Wells-S-2-2910X-23.0,3,S-2-2910X-23.0,1.0
+29.0,,S,23.0,"Wells, Mrs. Arthur Henry (Addie"" Dart Trevaskis)""",2,1154,2,female,0,,2910X,Wells,woman,Wells-S-2-2910X-23.0,Wells-S-2-2910X-23.0,3,S-2-2910X-23.0,1.0
+5.0,,S,27.75,"West, Miss. Constance Mirium",2,59,2,female,1,1.0,C.A. 3465X,West,woman,West-S-2-C.A. 3465X-27.75,West-S-2-C.A. 3465X-27.75,3,S-2-C.A. 3465X-27.75,1.0
+33.0,,S,27.75,"West, Mrs. Edwy Arthur (Ada Mary Worth)",2,473,2,female,1,1.0,C.A. 3465X,West,woman,West-S-2-C.A. 3465X-27.75,West-S-2-C.A. 3465X-27.75,3,S-2-C.A. 3465X-27.75,1.0
+0.92,,S,27.75,"West, Miss. Barbara J",2,1142,2,female,1,,C.A. 3465X,West,woman,West-S-2-C.A. 3465X-27.75,West-S-2-C.A. 3465X-27.75,3,S-2-C.A. 3465X-27.75,1.0
+31.0,C7,S,164.8667,"Wick, Miss. Mary Natalie",2,319,1,female,0,1.0,3692X,Wick,woman,Wick-S-1-3692X-164.8667,Wick-S-1-3692X-164.8667,3,S-1-3692X-164.8667,1.0
+45.0,,S,164.8667,"Wick, Mrs. George Dennick (Mary Hitchcock)",1,857,1,female,1,1.0,3692X,Wick,woman,Wick-S-1-3692X-164.8667,Wick-S-1-3692X-164.8667,3,S-1-3692X-164.8667,1.0
+30.0,C7,S,164.8667,"Bonnell, Miss. Caroline",0,1292,1,female,0,,3692X,Bonnell,woman,Wick-S-1-3692X-164.8667,Wick-S-1-3692X-164.8667,3,S-1-3692X-164.8667,1.0
